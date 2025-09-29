@@ -1,0 +1,54 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "titulo": "Error en PC",
+      "estado": "abierto",
+      "usuarioId": 1
+    },
+    {
+      "id": "8986"
+    },
+    {
+      "id": "5e38"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "Juan Pérez",
+      "rol": "cliente"
+    },
+    {
+      "id": "f8df"
+    },
+    {
+      "id": "90ee"
+    },
+    {
+      "id": "cf07"
+    },
+    {
+      "id": "5732"
+    },
+    {
+      "id": "1314"
+    },
+    {
+      "id": "88c2"
+    },
+    {
+      "id": "2110"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Red"
+    },
+    {
+      "id": "2",
+      "nombre": "Software"
+    }
+  ]
+}
